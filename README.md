@@ -10,3 +10,8 @@ Monocular depth sensing has been a barrier in computer vision in recent years. T
 
 The experiments in this project indicate that it is probable to create accurate depth data using a low powered consumer-grade depth sensor (like the Kinect) to create high-resolution depth images with comparable accuracy to older laser mapping technologies whilst being highly cost-effective solution.
 
+## Dataset
+The Dataset used was the **NYU Depth V2 Dataset** using the provided 1449 labeled RGB and depth images.
+
+## Input Parametrization
+
